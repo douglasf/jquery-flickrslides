@@ -1,0 +1,1 @@
+$("#name").flickrSlides({api_key: "e1856d1ad6692cc082c74712cbff69e2", photoset_id: "72157626310803588"});
